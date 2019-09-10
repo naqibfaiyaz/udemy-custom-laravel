@@ -125,6 +125,9 @@ return [
 
     'cipher' => 'AES-256-CBC',
 
+    'admin' => [
+        'naqib3110@gmail.com'
+    ],
     /*
     |--------------------------------------------------------------------------
     | Autoloaded Service Providers
